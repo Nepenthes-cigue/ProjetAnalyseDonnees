@@ -1,54 +1,118 @@
 {
-    "E201142": {
-        "result": "ASTRE",
-        "score": 5
+    "e2405085": {
+        "result": "HESITANT",
+        "score": 0
     },
-    "e201962": {
-        "result": "ASTRE",
-        "score": 2
-    },
-    "batman": {
-        "result": "IPS",
-        "score": -4
-    },
-    "20201116": {
-        "result": "IPS",
-        "score": -23
-    },
-    "e2205762": {
-        "result": "IPS",
-        "score": -19
-    },
-    "e2305439": {
-        "result": "IPS",
-        "score": -21
-    },
-    "e2205039": {
-        "result": "IPS",
-        "score": -8
-    },
-    "E2205283": {
-        "result": "IPS",
-        "score": -18
-    },
-    "22005317": {
-        "result": "IPS",
-        "score": -23
-    },
-    "e2205274": {
+    "e2203810": {
         "result": "IPS",
         "score": -6
     },
-    "e2205559": {
+    "e2405459": {
+        "result": "IPS",
+        "score": -14
+    },
+    "24005412": {
+        "result": "IPS",
+        "score": -18
+    },
+    "e2203171": {
+        "result": "ASTRE",
+        "score": 3
+    },
+    "e2202522": {
+        "result": "IPS",
+        "score": -12
+    },
+    "e2103793": {
+        "result": "IPS",
+        "score": -7
+    },
+    "24005499": {
+        "result": "ASTRE",
+        "score": 8
+    },
+    "24005714": {
+        "result": "IPS",
+        "score": -2
+    },
+    "24005490": {
+        "result": "HESITANT",
+        "score": 0
+    },
+    "233383581Gj": {
+        "result": "IPS",
+        "score": -5
+    },
+    "22002687": {
+        "result": "ASTRE",
+        "score": 5
+    },
+    "24005503": {
+        "result": "IPS",
+        "score": -3
+    },
+    "e2405378": {
+        "result": "IPS",
+        "score": -14
+    },
+    "e2405543": {
+        "result": "IPS",
+        "score": -16
+    },
+    "e2406051": {
+        "result": "IPS",
+        "score": -4
+    },
+    "23001733": {
+        "result": "ASTRE",
+        "score": 9
+    },
+    "2405405": {
+        "result": "IPS",
+        "score": -2
+    },
+    "e2405720": {
+        "result": "IPS",
+        "score": -11
+    },
+    "2305451": {
+        "result": "IPS",
+        "score": -3
+    },
+    "e2203982": {
         "result": "IPS",
         "score": -9
     },
-    "Catwoman": {
+    "e2405508": {
         "result": "IPS",
-        "score": -19
+        "score": -5
     },
-    "e200942": {
+    "e2202586": {
         "result": "IPS",
-        "score": -19
+        "score": -3
+    },
+    "s172601": {
+        "result": "IPS",
+        "score": -3
+    },
+    "i2100643": {
+        "result": "ASTRE",
+        "score": 7
+    },
+    "2202919": {
+        "result": "IPS",
+        "score": -4
+    },
+    "081603600HF": {
+        "result": "ASTRE",
+        "score": 2
+    },
+    "e2403517": {
+        "result": "ASTRE",
+        "score": 3
+    },
+    "e2102003": {
+        "result": "IPS",
+        "score": -7
     }
 }

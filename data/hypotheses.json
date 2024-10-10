@@ -1,0 +1,36 @@
+{
+  "Asso":{
+    "EnsimElec":3
+  },
+  "Formation_anterieur":{
+    "Prépa BL":-5
+  },
+  "Auto_entreprenariat":{
+    "Oui":-3
+  },
+  "Entreprises":{
+    "STMicroelectronics":1,
+    "Thales":1
+  },
+  "Langages":{
+    "C":1,
+    "Shell / Bash":2
+  },
+  "Bureau":{
+    "Arduino/Raspberry Pi":5
+  },
+  "Systeme_exploitation":{
+    "Linux":5
+  },
+  "Code_projetPerso":{
+    "Jamais":-3
+  },
+  "Activites":{
+    "Sorties en ville":-2
+  },
+  "SansCode":{
+    "Oui":-5
+  }
+}
+
+
